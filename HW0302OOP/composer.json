@@ -1,0 +1,9 @@
+{
+
+   "autoload":{
+    "psr-4":{
+        "classes\\":"vendor/lib/classes",
+        "interfaces\\":"vendor/lib/interfaces"
+    }
+    }
+}
